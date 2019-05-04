@@ -1,0 +1,102 @@
+.clear-sky{
+    background-color: #7d55be;
+    text-align: center;
+    color:#fff;
+    border: 2px red solid;
+    border-radius: 10%;
+
+}
+
+.light-rain{
+    background-color: #220a49;
+    text-align: center;
+    color:#fff;
+    border: 2px red solid;
+    border-radius: 10%;
+
+}
+
+.few-clouds{
+    background-color: #220a49;
+    text-align: center;
+    color:rgb(29, 28, 31);
+    border: 2px red solid;
+    border-radius: 10%;
+
+}
+
+.def{
+    text-align: center;
+}
+
+.defbg{
+    text-align: left;
+}
+
+
+
+
+
+
+.container{
+    position:relative;
+    margin:auto;
+    padding: 10px 10px 10px 10px;
+    
+    background-position: center center;
+    border-bottom-left-radius: 5%;
+}
+
+.london{
+    width:40%;
+    background-image: url('./images/london-mist.jpg');
+    background-position: center center;
+}
+
+.manchester{
+    background-image: url('./images/manchester.jpg');
+    background-position: center center;
+    width:47%;
+}
+
+.bangalore{
+    width:38%;
+    background-image: url('./images/bangalore.jpg');
+    background-position: center center;
+}
+
+.mumbai{
+    width:40%;
+    background-image: url('./images/mumbai.jpg');
+    background-position: center center;
+}
+
+
+.amsterdam{
+    width:40%;
+    background-image: url('./images/amsterdam.jpg');
+    background-position: center center;
+}
+
+.lucknow{
+    width:40%;
+    background-image: url('./images/lucknow.jpg');
+    background-position: center center;
+}
+
+.etawah{
+    width:40%;
+    background-image: url('./images/etawah.jpg');
+    background-position: center center;
+}
+
+.delhi{
+    width:40%;
+    background-image: url('./images/delhi.jpg');
+    background-position: center center;
+}
+.chennai{
+    width:40%;
+    background-image: url('./images/chennai.jpg');
+    background-position: center center;
+}

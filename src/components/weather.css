@@ -1,0 +1,143 @@
+.clear-sky{
+    background-color: #7d55be;
+    text-align: center;
+    color:#fff;
+    border: 2px red solid;
+    border-radius: 10%;
+
+}
+
+.light-rain{
+    background-color: #220a49;
+    text-align: center;
+    color:#fff;
+    border: 2px red solid;
+    border-radius: 10%;
+
+}
+
+.few-clouds{
+    background-color: #220a49;
+    text-align: center;
+    color:rgb(29, 28, 31);
+    border: 2px red solid;
+    border-radius: 10%;
+
+}
+
+.def{
+    text-align: left;
+    margin:auto;
+    padding: 25px 25px 25px 55px;
+}
+
+.defbg{
+    text-align: left;
+    background-image: url('./images/weather-data.gif');
+    background-position: center center
+}
+
+.ll{
+    font: 'normal  20px/30px sans serif , Verdana';
+    color : 'white';
+    size: '160%';
+    padding: '5px 5px 5px 100px';
+    text-align:'right';
+    display: inline-block
+}
+
+
+
+
+.container{
+    position:left;
+    margin:auto;
+    padding: 10px 10px 10px 10px;
+    
+    background-position: left;
+    border-bottom-left-radius: 5%;
+}
+
+.london{
+    width:40%;
+    background-image: url('./images/london-mist.jpg');
+    background-position: center center;
+}
+
+.manchester{
+    background-image: url('./images/manchester.jpg');
+    background-position: center center;
+    width:47%;
+}
+
+.bangalore{
+    width:38%;
+    background-image: url('./images/bangalore.jpg');
+    background-position: center center;
+}
+
+.mumbai{
+    width:40%;
+    background-image: url('./images/mumbai.jpg');
+    background-position: center center;
+}
+
+
+.amsterdam{
+    width:40%;
+    background-image: url('./images/amsterdam.jpg');
+    background-position: center center;
+}
+
+.lucknow{
+    width:40%;
+    background-image: url('./images/lucknow.jpg');
+    background-position: center center;
+}
+
+.etawah{
+    width:40%;
+    background-image: url('./images/etawah.jpg');
+    background-position: center center;
+}
+
+.delhi{
+    width:40%;
+    background-image: url('./images/delhi.jpg');
+    background-position: center center;
+}
+.chennai{
+    width:40%;
+    background-image: url('./images/chennai.jpg');
+    background-position: center center;
+}
+
+.App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 1.5s linear;
+    height: 75px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 120px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  @keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  
